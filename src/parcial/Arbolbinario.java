@@ -2,7 +2,7 @@ package parcial;
 
 public class Arbolbinario {
 
-	class Nodo{
+	public static class Nodo{
 		int dato;
 		Nodo izquierdo, derecho;
 		
